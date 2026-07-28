@@ -13,7 +13,6 @@
 
 ```mermaid
 flowchart LR
-
 A[Input]
 B(Run)
 C{Success?}
@@ -23,11 +22,4 @@ F(Rounded)
 G((Circle))
 H{Decision}
 I((End))
-
-
-
-A --> B
-B --> C
-C --> D
-D --> E
 ```
