@@ -4,6 +4,8 @@ Markdown is a lightweight markup language used to format plain text into structu
 
 Instead of using complex HTML tags, Markdown uses simple symbols like #, *, -, and > to create headings, lists, tables, links, images, and more.
 
+---
+
 - HTML
 - PDF
 - Word documents
@@ -12,5 +14,7 @@ Instead of using complex HTML tags, Markdown uses simple symbols like #, *, -, a
 - Blogs
 - Notes
 
-
+---
 ![Python Logo](markdown-pdf.png)
+
+---
