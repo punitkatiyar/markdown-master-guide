@@ -18,3 +18,17 @@ Instead of using complex HTML tags, Markdown uses simple symbols like #, *, -, a
 ![Python Logo](markdown-pdf.png)
 
 ---
+
+# Weather App
+
+## Features
+
+- Search city weather
+- 5-day forecast
+- Responsive design
+
+## Installation
+
+npm install
+
+npm run dev
