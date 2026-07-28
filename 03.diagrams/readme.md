@@ -22,4 +22,13 @@ F(Rounded)
 G((Circle))
 H{Decision}
 I((End))
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> H
+H --> I
 ```
