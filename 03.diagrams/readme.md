@@ -18,12 +18,10 @@ B(Run)
 C{Success?}
 D[(Database)]
 E((End))
-
 A --> B
 B --> C
 C --> D
 D --> E
-
 ```
 
 
