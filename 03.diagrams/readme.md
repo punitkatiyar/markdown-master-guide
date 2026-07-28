@@ -17,14 +17,11 @@ A[Input]
 B(Run)
 C{Success?}
 D[(Database)]
+
 A --> B
 B --> C
 C --> D
-D --> E
-E --> F
-F --> G
-G --> H
-H --> I
+
 ```
 
 
