@@ -19,7 +19,7 @@ Instead of using complex HTML tags, Markdown uses simple symbols like #, *, -, a
 
 ---
 
-## Where We Use
+## Where We Use Markdown 
 
 | Platform         | Use Case                         |
 | ---------------- | -------------------------------- |
