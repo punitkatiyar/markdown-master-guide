@@ -11,3 +11,6 @@ Instead of using complex HTML tags, Markdown uses simple symbols like #, *, -, a
 - Documentation websites
 - Blogs
 - Notes
+
+
+![Python Logo](markdown-pdf.png)
