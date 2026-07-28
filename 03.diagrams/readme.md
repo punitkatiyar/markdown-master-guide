@@ -17,12 +17,6 @@ A[Input]
 B(Run)
 C{Success?}
 D[(Database)]
-E[Rectangle]
-F(Rounded)
-G((Circle))
-H{Decision}
-I((End))
-
 A --> B
 B --> C
 C --> D
@@ -32,3 +26,21 @@ F --> G
 G --> H
 H --> I
 ```
+
+
+
+```mermaid
+flowchart LR
+A[Rectangle]
+B(Rounded)
+C((Circle))
+D{Decision}
+E((End))
+
+A --> B
+B --> C
+C --> D
+D --> E
+
+```
+
