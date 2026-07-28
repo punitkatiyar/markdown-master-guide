@@ -10,3 +10,24 @@
 - ✅ Great for documentation
 - ✅ No need to use drawing software
 - ✅ Easy to update
+
+```mermaid
+flowchart LR
+
+A[Input]
+B(Run)
+C{Success?}
+D[(Database)]
+E[Rectangle]
+F(Rounded)
+G((Circle))
+H{Decision}
+I((End))
+
+
+
+A --> B
+B --> C
+C --> D
+D --> E
+```
