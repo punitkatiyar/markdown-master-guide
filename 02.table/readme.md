@@ -12,3 +12,15 @@
 | Left | Center | Right |
 |:-----|:------:|------:|
 | A | B | C |
+
+
+<table width="600">
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Punit</td>
+    <td>28</td>
+  </tr>
+</table>
