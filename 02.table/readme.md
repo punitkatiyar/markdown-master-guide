@@ -1,8 +1,11 @@
+# markdown Table 
 
-```javascript
-console.log("Hello")
-```
+| Name | Age |
+|------|----|
+| John | 25 |
+| Alex | 30 |
 
-```html
-<h1>Hello</h1>
-```
+
+| Left | Center | Right |
+|:-----|:------:|------:|
+| A | B | C |
