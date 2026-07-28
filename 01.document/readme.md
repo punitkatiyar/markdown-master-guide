@@ -13,3 +13,16 @@
 npm install
 
 npm run dev
+
+---
+
+# Login API
+
+POST /login
+
+## Request
+
+{
+    "email":"abc@gmail.com",
+    "password":"123456"
+}
