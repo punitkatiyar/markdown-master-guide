@@ -19,16 +19,17 @@ Instead of using complex HTML tags, Markdown uses simple symbols like #, *, -, a
 
 ---
 
-# Weather App
+## Where We Use
 
-## Features
+| Platform         | Use Case                         |
+| ---------------- | -------------------------------- |
+| GitHub           | README.md, Documentation         |
+| ChatGPT          | Formatting prompts and responses |
+| VS Code          | Notes and documentation          |
+| Obsidian         | Personal knowledge base          |
+| Notion           | Notes                            |
+| Jupyter Notebook | Data Science reports             |
+| Docusaurus       | Documentation websites           |
+| MkDocs           | Project documentation            |
+| Stack Overflow   | Questions and answers            |
 
-- Search city weather
-- 5-day forecast
-- Responsive design
-
-## Installation
-
-npm install
-
-npm run dev
