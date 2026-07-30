@@ -21,7 +21,7 @@ print("Hello")
 ## PHP code Template
 
 ```php
-print("Hello")
+echo "Hello"
 ```
 
 
