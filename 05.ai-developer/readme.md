@@ -2,6 +2,8 @@
 
 > CDN Path : https://cdn.jsdelivr.net/npm/marked/marked.min.js
 
+---
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
