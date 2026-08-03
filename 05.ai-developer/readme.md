@@ -17,7 +17,7 @@
 
 <body>
 
-    <textarea id="md" rows="15" cols="60">
+    <textarea id="md" rows="15" cols="60" style="display:node;">
 # Hello World
 
 This is **Markdown**.
